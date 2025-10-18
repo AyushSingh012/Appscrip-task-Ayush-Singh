@@ -5,8 +5,7 @@ export default function HeroSection() {
     <section className="hero">
       <h1>DISCOVER OUR PRODUCTS</h1>
       <p>
-        Lorem ipsum dolor sit amet consectetur. Amet est posuere rhoncus
-        scelerisque. Dolor integer scelerisque nibh amet mi ut elementum dolor.
+       Find your perfect style for every moment. Explore handpicked designs crafted just for you.
       </p>
     </section>
   );
