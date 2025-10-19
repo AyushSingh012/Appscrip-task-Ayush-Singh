@@ -65,10 +65,10 @@ export default function FilterSidebar() {
         <label htmlFor="price">Price Range</label>
         <select id="price">
           <option>All</option>
-          <option>Under ₹500</option>
-          <option>₹500–₹1000</option>
-          <option>₹1000–₹2000</option>
-          <option>Above ₹2000</option>
+          <option>Under $50</option>
+          <option>$50–$100</option>
+          <option>$100–$200</option>
+          <option>Above $200</option>
         </select>
       </div>
 
